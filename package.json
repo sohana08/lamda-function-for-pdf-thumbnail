@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdf2pic": "^2.1.4",
+    "sharp": "^0.31.3"
+  }
+}
